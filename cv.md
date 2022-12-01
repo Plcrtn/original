@@ -18,6 +18,23 @@
 ## *IT-Education*
 * Udemy - Web Dev introduction
 
+## *Skills*
+* HTML
+* SCC
+* Preprocessor Sass
+* Methodology BEM
+* Git
+  
+# *Code example:*
+```
+function multiply (a, b) {
+return a * b
+}
+```
+
+## *Projects*
+* [RunSmart](https://github.com/Plcrtn/RunSmart-project) (Educational project)
+* [Uber](https://github.com/Plcrtn/uber.project) (Educational project)
 ## *Languages*
 * English - Intermediate
 * Russian - Native
